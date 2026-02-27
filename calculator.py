@@ -11,6 +11,3 @@ def test_add_negative():
 def test_add_positive():
     assert add(1, 3) == 4
 
-
-def test_add_negative():
-    assert add(-1, -2) == -3
