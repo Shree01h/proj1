@@ -1,6 +1,6 @@
 def abc():
     """Original function"""
-    return "ABC value"
+    return "DEF value"
 
 def helper():
     return 100
